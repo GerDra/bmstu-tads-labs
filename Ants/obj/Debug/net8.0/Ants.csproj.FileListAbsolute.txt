@@ -1,0 +1,14 @@
+D:\МГТУ\Type and structure of data\Ants\bin\Debug\net8.0\Ants.exe
+D:\МГТУ\Type and structure of data\Ants\bin\Debug\net8.0\Ants.deps.json
+D:\МГТУ\Type and structure of data\Ants\bin\Debug\net8.0\Ants.runtimeconfig.json
+D:\МГТУ\Type and structure of data\Ants\bin\Debug\net8.0\Ants.dll
+D:\МГТУ\Type and structure of data\Ants\bin\Debug\net8.0\Ants.pdb
+D:\МГТУ\Type and structure of data\Ants\obj\Debug\net8.0\Ants.GeneratedMSBuildEditorConfig.editorconfig
+D:\МГТУ\Type and structure of data\Ants\obj\Debug\net8.0\Ants.AssemblyInfoInputs.cache
+D:\МГТУ\Type and structure of data\Ants\obj\Debug\net8.0\Ants.AssemblyInfo.cs
+D:\МГТУ\Type and structure of data\Ants\obj\Debug\net8.0\Ants.csproj.CoreCompileInputs.cache
+D:\МГТУ\Type and structure of data\Ants\obj\Debug\net8.0\Ants.dll
+D:\МГТУ\Type and structure of data\Ants\obj\Debug\net8.0\refint\Ants.dll
+D:\МГТУ\Type and structure of data\Ants\obj\Debug\net8.0\Ants.pdb
+D:\МГТУ\Type and structure of data\Ants\obj\Debug\net8.0\Ants.genruntimeconfig.cache
+D:\МГТУ\Type and structure of data\Ants\obj\Debug\net8.0\ref\Ants.dll
